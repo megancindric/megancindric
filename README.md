@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello, I'm Megan! 👋
 
-<!--
-**megancindric/megancindric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## I'm a Wisconsin-based Software Developer who enjoys coding, coffee, and spending time in the great outdoors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 I’m currently learning
+
+- NextJS
+- React Native
+- Flexbox
+
+### 💪 I'm currently working on
+
+- Building a daily habit of coding at least 15 minutes per day, on a topic of my choosing.
+- A personal portfolio site using NextJS & Prisma
+- Rebuilding an old project (Walkabout) using React Native
+
+### 💛 My interests include
+
+- Weightlifting
+- Cross stitching
+- Camping
+- Spending *far* too much time playing Animal Crossing
+
+### 🔨 My Toolbelt
+
+![My Toolbelt](https://skills.thijs.gg/icons?i=py,js,react,nextjs,mysql,html,css,docker,git)
+
+### 📬 Contact Me
+
+[![LinkedIn](assets/linkedin48.png)](https://www.linkedin.com/in/megan-cindric/)[![Email](assets/email48.png)](mailto:megancindric@gmail.com)
