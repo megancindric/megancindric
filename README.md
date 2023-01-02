@@ -1,6 +1,5 @@
 # Hello, I'm Megan! 👋
 
----
 
 ## I'm a Wisconsin-based Software Developer who enjoys coding, coffee, and spending time in the great outdoors
 
