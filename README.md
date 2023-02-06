@@ -5,6 +5,7 @@
 
 ### 💻 I’m currently learning
 
+- Machine Learning
 - NextJS
 - React Native
 - Flexbox
