@@ -8,12 +8,11 @@
 - Machine Learning
 - NextJS
 - React Native
-- Flexbox
 
 ### 💪 I'm currently working on
 
 - Building a daily habit of coding at least 15 minutes per day, on a topic of my choosing.
-- A personal portfolio site using NextJS & Prisma
+- A personal portfolio site using ReactJS & MUI
 - Rebuilding an old project (Walkabout) using React Native
 
 ### 💛 My interests include
