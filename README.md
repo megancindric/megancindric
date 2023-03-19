@@ -5,14 +5,14 @@
 
 ### 💻 I’m currently learning
 
-- Machine Learning
-- NextJS
+- C#
+- TypeScript
 - React Native
 
 ### 💪 I'm currently working on
 
 - Building a daily habit of coding at least 15 minutes per day, on a topic of my choosing.
-- A personal portfolio site using ReactJS & MUI
+- A personal portfolio site using ReactJS & TailwindCSS
 - Rebuilding an old project (Walkabout) using React Native
 
 ### 💛 My interests include
