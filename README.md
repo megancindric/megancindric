@@ -1,7 +1,7 @@
 # Hello, I'm Megan! 👋
 
 
-## I'm a Wisconsin-based Software Developer who enjoys coding, coffee, and spending time in the great outdoors
+## I'm a Colorado-based Software Developer who enjoys coding, coffee, and spending time in the great outdoors
 
 ### 💻 I’m currently learning
 
@@ -13,18 +13,18 @@
 
 - Building a daily habit of coding at least 15 minutes per day, on a topic of my choosing.
 - A personal portfolio site using ReactJS & TailwindCSS
-- Rebuilding an old project (Walkabout) using React Native
+- Completing & Deploying SummitTracker React Native application
 
 ### 💛 My interests include
 
-- Weightlifting
-- Cross stitching
-- Camping
-- Spending *far* too much time playing Animal Crossing
+- Camping & Hiking ⛺
+- Weightlifting 💪
+- Cross stitching 🪡
+- Spending *far* too much time playing Animal Crossing 🦁
 
 ### 🔨 My Toolbelt
 
-![My Toolbelt](https://skills.thijs.gg/icons?i=py,js,react,nextjs,mysql,html,css,docker,git)
+![My Toolbelt](https://skills.thijs.gg/icons?i=py,js,ts,cs,react,flask,django,dotnet,mysql,html,css,docker,aws,git)
 
 ### 📬 Contact Me
 
