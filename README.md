@@ -12,8 +12,8 @@
 ### 💪 I'm currently working on
 
 - Building a daily habit of coding at least 15 minutes per day, on a topic of my choosing.
-- A personal portfolio site using ReactJS & TailwindCSS
-- Completing & Deploying SummitTracker React Native application
+- Completing & deploying WeirdFlex, an ASP.NET/React TypeScript project
+- Diving deeper into Microsoft Azure, with a goal of deploying WeirdFlex using Azure & Docker
 
 ### 💛 My interests include
 
